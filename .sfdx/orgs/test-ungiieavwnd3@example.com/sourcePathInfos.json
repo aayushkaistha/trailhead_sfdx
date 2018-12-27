@@ -2,14 +2,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1545934591682,
             "changeTime": 1545934591682,
             "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1545934591680,
             "changeTime": 1545934591680,
             "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 320,
             "modifiedTime": 1545934888842,
             "changeTime": 1545934888842,
-            "contentHash": "f4d98222d02da8a8bd4bf8c651b6c4b721916c86"
+            "contentHash": "f4d98222d02da8a8bd4bf8c651b6c4b721916c86",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1545934717279,
             "changeTime": 1545934717279,
             "contentHash": "8254dac2f5256c6b3492239c93b3f2d7d93ec5a8",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -74,14 +74,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 404,
             "modifiedTime": 1545932231949,
             "changeTime": 1545932231949,
             "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -89,14 +89,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1545932231954,
             "changeTime": 1545932231954,
             "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -104,14 +104,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1545932231960,
             "changeTime": 1545932231960,
             "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -119,14 +119,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1545932231963,
             "changeTime": 1545932231963,
             "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -134,14 +134,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1545932231967,
             "changeTime": 1545932231967,
             "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -149,14 +149,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1545932231968,
             "changeTime": 1545932231968,
             "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -164,14 +164,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1545932231949,
             "changeTime": 1545932231949,
             "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -179,14 +179,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1545932231948,
             "changeTime": 1545932231948,
             "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -194,14 +194,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/objects",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1545932231948,
             "changeTime": 1545932231948,
             "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -209,14 +209,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/layouts",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1545932231967,
             "changeTime": 1545932231967,
             "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -224,14 +224,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1545932231968,
             "changeTime": 1545932231968,
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -239,14 +239,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/classes",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1545934657786,
             "changeTime": 1545934657786,
             "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -254,14 +254,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 292,
             "modifiedTime": 1545934657705,
             "changeTime": 1545934657780,
             "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -269,14 +269,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1545934571359,
             "changeTime": 1545934571359,
             "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -284,14 +284,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1545934759915,
             "changeTime": 1545934759915,
             "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -299,14 +299,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1545934693330,
             "changeTime": 1545934693330,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -314,14 +314,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 155,
             "modifiedTime": 1545934742284,
             "changeTime": 1545934742299,
             "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -329,14 +329,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1545934693329,
             "changeTime": 1545934693329,
             "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -344,14 +344,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 113,
             "modifiedTime": 1545934759896,
             "changeTime": 1545934759912,
             "contentHash": "d37585a5497942f4652a198588747f2d6be784e7",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -359,14 +359,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1545934693331,
             "changeTime": 1545934693331,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -374,14 +374,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1545934693330,
             "changeTime": 1545934693330,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -389,14 +389,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1545934693329,
             "changeTime": 1545934693329,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -404,14 +404,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1545934693329,
             "changeTime": 1545934693329,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -419,14 +419,14 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
-            "state": "n",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1545934693330,
             "changeTime": 1545934693330,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -434,92 +434,352 @@
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1545934888835,
             "changeTime": 1545934888835,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18199,
             "modifiedTime": 1545934888845,
             "changeTime": 1545934888845,
-            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d"
+            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5016,
             "modifiedTime": 1545934888848,
             "changeTime": 1545934888848,
-            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7"
+            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4680,
             "modifiedTime": 1545934888850,
             "changeTime": 1545934888850,
-            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5"
+            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4676,
             "modifiedTime": 1545934888853,
             "changeTime": 1545934888853,
-            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29"
+            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1545934888835,
             "changeTime": 1545934888835,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1545934888853,
             "changeTime": 1545934888853,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1545935166831,
+            "changeTime": 1545935166831,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1545935103317,
+            "changeTime": 1545935103317,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1545935114235,
+            "changeTime": 1545935114235,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 339,
+            "modifiedTime": 1545935133302,
+            "changeTime": 1545935133318,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1545935114233,
+            "changeTime": 1545935114233,
+            "contentHash": "9e9f03a612d61ab979166f75892ca34630005828"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 111,
+            "modifiedTime": 1545935166817,
+            "changeTime": 1545935166829,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1545935114235,
+            "changeTime": 1545935114235,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1545935114234,
+            "changeTime": 1545935114234,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 255,
+            "modifiedTime": 1545935153256,
+            "changeTime": 1545935153264,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1545935114233,
+            "changeTime": 1545935114233,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1545935114234,
+            "changeTime": 1545935114234,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1545935068816,
+            "changeTime": 1545935068816,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 120,
+            "modifiedTime": 1545935089103,
+            "changeTime": 1545935089118,
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1545935068814,
+            "changeTime": 1545935068814,
+            "contentHash": "cd6b85d39687bc3e7ff7e8d01d139cec764fe6db"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 168,
+            "modifiedTime": 1545935103300,
+            "changeTime": 1545935103315,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1545935068816,
+            "changeTime": 1545935068816,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1545935068816,
+            "changeTime": 1545935068816,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1545935068815,
+            "changeTime": 1545935068815,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1545935068815,
+            "changeTime": 1545935068815,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/akaistha/workspaces/personal/devhub/my_sfdc_project/geolocation_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1545935068815,
+            "changeTime": 1545935068815,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
